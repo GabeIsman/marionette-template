@@ -1,8 +1,10 @@
 ## Contributing
 Make sure you have the following dependencies installed:
+
 1. [Node](https://nodejs.org) (I recommend version 0.10.x, `node -v` to check what you have installed). You will also need NPM, which comes with Node.
 
 To get the development workflow up and running follow these steps:
+
 1. `git clone` the repository
 2. `cd marionette-template`
 3. Run `npm install`. This will install all of the dependencies.
